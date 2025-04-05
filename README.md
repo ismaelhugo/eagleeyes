@@ -47,4 +47,4 @@ Focado em empoderar cidadãos e tornar a política mais transparente e acessíve
 🌐 Contato
 
 - Email: ismaelhugo.dev@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/ismael-hugo/]
+- LinkedIn: https://www.linkedin.com/in/ismael-hugo/
