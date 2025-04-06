@@ -1,4 +1,4 @@
-# 🦅 Operação Olhos de Águia (EM DESENVOLVIMENTO)
+# 🦅 Operação Janela Aberta (EM DESENVOLVIMENTO)
 
 **Plataforma cidadã de transparência parlamentar**  
 Torne-se os olhos da população na fiscalização dos gastos públicos dos deputados federais.
@@ -7,7 +7,7 @@ Torne-se os olhos da população na fiscalização dos gastos públicos dos depu
 
 ## 📌 Sobre o Projeto
 
-A **Operação Olhos de Águia** é uma iniciativa de código aberto que visa facilitar o acesso aos dados públicos dos deputados federais, com foco em **clareza**, **acessibilidade** e **cidadania ativa**.
+A **Operação Janela Aberta** é uma iniciativa de código aberto que visa facilitar o acesso aos dados públicos dos deputados federais, com foco em **clareza**, **acessibilidade** e **cidadania ativa**.
 
 Inspirado na [Operação Serenata de Amor](https://serenata.ai/) e integrando dados da [API da Câmara dos Deputados](https://dadosabertos.camara.leg.br/), o projeto apresenta uma interface intuitiva para que qualquer cidadão, independentemente do seu nível de escolaridade, possa acompanhar, entender e fiscalizar os gastos dos seus representantes.
 

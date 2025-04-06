@@ -8,10 +8,10 @@ const roboto = Roboto({
 })
 
 export const metadata = {
-  title: 'Operação Olhos de Águia',
+  title: 'Operação Janela Aberta',
   description: 'Plataforma cidadã de transparência parlamentar',
   icons: {
-    icon: '/favicon.png',
+    icon: '/logo-bg.png',
   },
 };
 

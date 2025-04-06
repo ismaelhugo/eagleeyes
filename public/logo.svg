@@ -1,6 +1,8 @@
-<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="64" cy="64" r="64" fill="#1E293B"/>
-  <path d="M95 45C92 38 84 32 75 32C69 32 62 35 58 39C52 34 43 33 36 37C27 42 23 52 25 62C28 76 45 89 64 89C83 89 100 76 103 62C104 57 103 51 101 47C99 50 96 52 93 53C94 50 95 47 95 45Z" fill="#FACC15"/>
-  <circle cx="64" cy="64" r="12" fill="#1E293B"/>
-  <circle cx="64" cy="64" r="5" fill="#FACC15"/>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" rx="8" fill="none"/>
+  <g fill="#FACC15">
+    <path d="M12 12H28V52H12V12Z" />
+    <path d="M36 12H52V52H36V12Z" />
+    <path d="M28 12H36V52H28V12Z" />
+  </g>
 </svg>
