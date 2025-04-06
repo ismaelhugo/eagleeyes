@@ -1,4 +1,4 @@
-# 🦅 Operação Janela Aberta (EM DESENVOLVIMENTO)
+# 🪟 Operação Janela Aberta (EM DESENVOLVIMENTO)
 
 **Plataforma cidadã de transparência parlamentar**  
 Torne-se os olhos da população na fiscalização dos gastos públicos dos deputados federais.
